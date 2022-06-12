@@ -71,7 +71,7 @@ from sklearn.model_selection import GridSearchCV
 
 model = RandomForestRegressor()
 param_grid = [{'n_estimators': np.arange(100, 1001, 100),
-           'max_features': ['auto','sqrt','log2']}]#auto和sqrt一样，实际上只有两个选择
+           'max_features': ['auto','sqrt','log2']}]
 
 clf = GridSearchCV(estimator=model,param_grid=param_grid, cv=4,
                     scoring = 'neg_mean_squared_error', n_jobs=-1)

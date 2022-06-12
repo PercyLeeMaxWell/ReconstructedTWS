@@ -6,10 +6,15 @@ Here we provide:
 3.  THe Scripts of critical processes for the reconstruction, including the PCA, ICA, OK, STL, MLR, and RF methods.
 
 File descriptions:
+
 '01_PC.npy' saves the first eight principal components derived from groundwater levels in the North China Plain via the principal component analysis;
+
 '01_PC_Ws.npy' saves the spatial weights of the first eight principal components derived from groundwater levels in the North China Plain via the principal component analysis;
+
 '01_IC.npy' saves the four independent components derived from groundwater levels in the North China Plain via the independent component analysis;
+
 '01_IC_Ws.npy' saves the spatial weights of the four independent components derived from groundwater levels in the North China Plain via the independent component analysis;
+
 '02_NCP_reconstructed_TWS.npy' saves the reconstructed GRACE-type TWS data during 200503-201812 in the North China Plain under case 5 of the manuscript;
 
 '03_Scripts.py' saves some relevant critical scripts for the reconstruction.

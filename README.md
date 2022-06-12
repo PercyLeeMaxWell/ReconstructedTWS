@@ -1,4 +1,4 @@
-# Descriptions for Dataset applied as Supporting Information for peer review purposes only
+# Descriptions for Dataset and scripts applied as Supporting Information for peer review purposes only
 
 Here we provide:
 1.	The principal components (PCs) and independent components (ICs) derived from groundwater levels during 200501-201812 as well as their spatial weights in the North China Plain (NCP) via the principal component analysis (PCA) and independent component analysis (ICA).

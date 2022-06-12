@@ -11,6 +11,7 @@ File descriptions:
 '01_IC.npy' saves the four independent components derived from groundwater levels in the North China Plain via the independent component analysis;
 '01_IC_Ws.npy' saves the spatial weights of the four independent components derived from groundwater levels in the North China Plain via the independent component analysis;
 '02_NCP_reconstructed_TWS.npy' saves the reconstructed GRACE-type TWS data during 200503-201812 in the North China Plain under case 5 of the manuscript;
+
 '03_Scripts.py' saves some relevant critical scripts for the reconstruction.
 
 These data and script files can all be loaded via Python.

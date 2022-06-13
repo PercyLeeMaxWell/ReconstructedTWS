@@ -6,7 +6,7 @@ Here we provide:
 3.	The reconstructed GRACE-type TWS data during 200503-201812 in the NCP under case 5 of the manuscript. The area is at latitude 34.5~40.5 and longitude 113~119.5.
 4.  THe Scripts of critical processes for the reconstruction, including the PCA, ICA, OK, STL, MLR, and RF methods.
 
-File descriptions:
+**File descriptions**:
 
 '01_PC.npy' saves the first eight principal components derived from groundwater levels in the North China Plain via the principal component analysis;
 
